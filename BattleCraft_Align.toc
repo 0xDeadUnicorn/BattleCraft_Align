@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: BattleCraft |cff00ff99Align|r
+## Author: 0xDeadUnicorn
+## Notes: Grid to Align UI elements |cff00ff99/align 32-256|r
+BattleCraft_Align.lua
