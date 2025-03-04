@@ -1,5 +1,5 @@
 local grid
-local boxSize = 64
+local boxSize = 128
 
 function Grid_Show()
 	if not grid then
